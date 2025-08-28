@@ -1,0 +1,14 @@
+Error, position is out of bounds! (Replace)
+Error, position is out of bounds! (Insert)
+May Your Heart 
+Element 2: Heart
+May Your Drums Beat 
+Error, position is out of bounds! (Remove)
+List is empty, no elements to display.
+thirdList length: 3
+thirdList maximum size: 5
+getElement: error, position out of bounds
+Error, list is full! (Append)
+Error, list is full! (Insert)
+May Your Heart Be A Yellow 
+myList is empty!
